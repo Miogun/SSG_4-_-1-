@@ -1,0 +1,15 @@
+.list th {
+    height: 30px;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    background-color: #797979;
+    color: white;
+}
+.list td {
+    height: 30px;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+}
+.list tr:nth-child(even) {
+    background-color: lightgoldenrodyellow;
+}
